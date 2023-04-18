@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
 <body>
-    <title>MI PRIMERA TAREA</title>
 </head>
     <section>
         <article>
